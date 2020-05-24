@@ -7,3 +7,4 @@ public class Main {
         //code.decryption("out.txt", "new.txt");
     }
 }
+
